@@ -7,4 +7,4 @@ env:
   config:
     # Override in environment with ingress controller load balancer IP or host
     # E.g http://a8241cbf8317f4c1ab5507fbce9d576c-671821569.us-east-2.elb.amazonaws.com:8080/
-    ALLOWED_ORIGINS: http://a8241cbf8317f4c1ab5507fbce9d576c-671821569.us-east-2.elb.amazonaws.com:8080/
+    ALLOWED_ORIGINS: http://a0c1ba918b36d442caec8521cdac56c2-200305942.us-east-1.elb.amazonaws.com:8080/
